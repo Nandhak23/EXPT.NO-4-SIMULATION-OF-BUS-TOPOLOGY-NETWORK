@@ -58,6 +58,7 @@ $ns at 5.0 "finish"
 $ns run
  
 # OUTPUT
+![WhatsApp Image 2025-11-23 at 20 24 16_d1569fa3](https://github.com/user-attachments/assets/6b704ae4-0239-41dc-b516-dd4838fac928)
 
 
 # RESULT
